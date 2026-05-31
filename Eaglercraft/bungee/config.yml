@@ -45,6 +45,5 @@ disabled_commands:
 - disabledcommandhere
 servers:
   lobby:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25565
+    address: Lifesteals-bNX6.aternos.me:48593
     restricted: false
